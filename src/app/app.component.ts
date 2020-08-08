@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { Satellite } from './satellite';
 import { SelectorMatcher } from '@angular/compiler';
-import { type } from 'os';
 
 @Component({
   selector: 'app-root',

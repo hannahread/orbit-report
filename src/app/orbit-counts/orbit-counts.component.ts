@@ -1,6 +1,5 @@
 import { Component, OnInit, Input} from '@angular/core';
 import { Satellite } from '../satellite';
-import { SSL_OP_SSLEAY_080_CLIENT_DH_BUG } from 'constants';
 
 
 @Component({
